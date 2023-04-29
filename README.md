@@ -2,10 +2,9 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/arjya-sen-error404" target="_blank"> Arjya Sen </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virus3-0&label=Profile%20views&color=0e75b6&style=flat" alt="virus3-0" /> </p>
-
 
 
 - 🌱 I’m currently learning **ReactJS, Data Structure**
